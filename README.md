@@ -7,3 +7,4 @@ No Vscode clique em Depuração, em seguida Iniciar Depuração.
 
 Irá abrir a janela de pesquisa de Imagens:
 
+![sap_busca](https://user-images.githubusercontent.com/94018223/224870176-e38eef71-fcf2-4612-b767-57a1792c1dc7.png)
